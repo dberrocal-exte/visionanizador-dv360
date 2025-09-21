@@ -1,0 +1,561 @@
+{"tier1":"Arts & Entertainment","tier2":"Entertainment Industry","tier3":"Film & TV Industry","tier4":"Film & TV Awards"}
+{"tier1":"Arts & Entertainment","tier2":"Entertainment Industry","tier3":"Film & TV Industry","tier4":"Film & TV Production"}
+{"tier1":"Arts & Entertainment","tier2":"Entertainment Industry","tier3":"Recording Industry","tier4":"Music Awards"}
+{"tier1":"Arts & Entertainment","tier2":"Entertainment Industry","tier3":"Recording Industry","tier4":"Record Labels"}
+{"tier1":"Arts & Entertainment","tier2":"Movies","tier3":"Action & Adventure Films","tier4":"Martial Arts Films"}
+{"tier1":"Arts & Entertainment","tier2":"Movies","tier3":"Action & Adventure Films","tier4":"Superhero Films"}
+{"tier1":"Arts & Entertainment","tier2":"Movies","tier3":"Action & Adventure Films","tier4":"Western Films"}
+{"tier1":"Arts & Entertainment","tier2":"Movies","tier3":"Movie Reference","tier4":"Movie Reviews & Previews"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Hip-Hop & R&B","tier4":"Rap & Hip-Hop"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Hip-Hop & R&B","tier4":"Reggaeton"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Hip-Hop & R&B","tier4":"Soul & R&B"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Jazz & Blues","tier4":"Jazz"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Equipment & Technology","tier4":"DJ Resources & Equipment"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Equipment & Technology","tier4":"Music Recording Technology"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Equipment & Technology","tier4":"Musical Instruments"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Equipment & Technology","tier4":"Samples & Sound Libraries"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Reference","tier4":"Music Composition & Theory"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Reference","tier4":"Sheet Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Reference","tier4":"Song Lyrics & Tabs"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Music Videos","tier4":"Lyric Videos"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Radio","tier4":"Talk Radio"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Religious Music","tier4":"Christian & Gospel Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Rock Music","tier4":"Classic Rock & Oldies"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Rock Music","tier4":"Hard Rock & Progressive"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Rock Music","tier4":"Indie & Alternative Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Rock Music","tier4":"Metal (Music)"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Rock Music","tier4":"Punk (Music)"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"East Asian Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"Latin Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"Reggae & Caribbean Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"South Asian Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"Southeast Asian Music"}
+{"tier1":"Arts & Entertainment","tier2":"Performing Arts","tier3":"Dance","tier4":"Ballet"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"ASMR Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Dance & Choreography Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Live Video Streaming"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Movie & TV Streaming"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Mukbang Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Oddly Satisfying Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Prank Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Shopping Hauls & Try On Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Vlogs"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Web Series"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"Home & Garden TV Shows"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Comedies"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Documentary & Nonfiction"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Dramas"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Family-Oriented Shows"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Game Shows"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Reality Shows"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Sci-Fi & Fantasy Shows"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Talent & Variety Shows"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"TV Shows & Programs","tier4":"TV Talk Shows"}
+{"tier1":"Arts & Entertainment","tier2":"Visual Art & Design","tier3":"Design","tier4":"Graphic Design"}
+{"tier1":"Arts & Entertainment","tier2":"Visual Art & Design","tier3":"Design","tier4":"Interior Design"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Brand)","tier3":"Fiat","tier4":"Alfa Romeo"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Type)","tier3":"Hybrid & Alternative Vehicles","tier4":"Electric & Plug-In Vehicles"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Type)","tier3":"Trucks, Vans & SUVs","tier4":"Pickup Trucks"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Type)","tier3":"Trucks, Vans & SUVs","tier4":"SUVs & Crossovers"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Type)","tier3":"Trucks, Vans & SUVs","tier4":"Vans & Minivans"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Codes & Driving Laws","tier3":"Vehicle Licensing & Registration","tier4":"Driving Instruction & Driver Education"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Auto Batteries"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Engine & Transmission"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Vehicle Fuels & Lubricants"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Vehicle Wheels & Tires"}
+{"tier1":"Beauty & Fitness","tier2":"Beauty Services & Spas","tier3":"Cosmetic Procedures","tier4":"Cosmetic Dentistry"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Hygiene & Toiletries","tier4":"Hand & Body Soaps"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Make-Up & Cosmetics","tier4":"Eye Makeup"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Make-Up & Cosmetics","tier4":"Face Makeup"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Skin & Nail Care","tier4":"Bath & Body Products"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Skin & Nail Care","tier4":"Face Care Products"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Skin & Nail Care","tier4":"Nail Care Products"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Unwanted Body & Facial Hair Removal","tier4":"Razors & Shavers"}
+{"tier1":"Beauty & Fitness","tier2":"Fitness","tier3":"Fitness Equipment & Accessories","tier4":"Cardio Training Equipment"}
+{"tier1":"Beauty & Fitness","tier2":"Fitness","tier3":"Fitness Equipment & Accessories","tier4":"Fitness Technology Products"}
+{"tier1":"Beauty & Fitness","tier2":"Fitness","tier3":"Fitness Equipment & Accessories","tier4":"Weights & Strength Training Equipment"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Human Resources","tier4":"Compensation & Benefits"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Human Resources","tier4":"Recruitment & Staffing"}
+{"tier1":"Business & Industrial","tier2":"Business Services","tier3":"E-Commerce Services","tier4":"Merchant Services & Payment Systems"}
+{"tier1":"Business & Industrial","tier2":"Construction & Maintenance","tier3":"Building Materials & Supplies","tier4":"Wood & Plastics"}
+{"tier1":"Business & Industrial","tier2":"Energy & Utilities","tier3":"Renewable & Alternative Energy","tier4":"Solar Power"}
+{"tier1":"Business & Industrial","tier2":"Energy & Utilities","tier3":"Renewable & Alternative Energy","tier4":"Wind Power"}
+{"tier1":"Business & Industrial","tier2":"Energy & Utilities","tier3":"Waste Management","tier4":"Recycling"}
+{"tier1":"Business & Industrial","tier2":"Industrial Materials & Equipment","tier3":"Fluid Handling","tier4":"Valves Hoses & Fittings"}
+{"tier1":"Business & Industrial","tier2":"Shipping & Logistics","tier3":"Freight Transport","tier4":"Maritime Transport"}
+{"tier1":"Business & Industrial","tier2":"Shipping & Logistics","tier3":"Freight Transport","tier4":"Rail Freight"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Components","tier4":"Chips & Processors"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Components","tier4":"Sound & Video Cards"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"CD & DVD Drives & Burners"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"Flash Drives & Memory Cards"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Audio Equipment","tier4":"Headphones"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Audio Equipment","tier4":"Speakers"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Audio Equipment","tier4":"Stereo Systems & Components"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Camera & Photo Equipment","tier4":"Binoculars, Telescopes & Optical Devices"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Camera & Photo Equipment","tier4":"Cameras & Camcorders"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Gadgets & Portable Electronics","tier4":"E-Book Readers"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Gadgets & Portable Electronics","tier4":"MP3 & Portable Media Players"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Gadgets & Portable Electronics","tier4":"Tablet PCs"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Gadgets & Portable Electronics","tier4":"Wearable Technology"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Game Systems & Consoles","tier4":"Handheld Game Consoles"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Game Systems & Consoles","tier4":"Nintendo"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Game Systems & Consoles","tier4":"Sony PlayStation"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Game Systems & Consoles","tier4":"Xbox"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"TV & Video Equipment","tier4":"Home Theater Systems"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"TV & Video Equipment","tier4":"Projectors & Screens"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Calendar & Scheduling Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Collaboration & Conferencing Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Presentation Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Word Processing Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Internet Software","tier4":"Web Browsers"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Multimedia Software","tier4":"Audio & Music Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Multimedia Software","tier4":"Desktop Publishing"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Multimedia Software","tier4":"Graphics & Animation Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Multimedia Software","tier4":"Photo & Video Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Operating Systems","tier4":"Linux & Unix"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Operating Systems","tier4":"Mac OS"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Operating Systems","tier4":"Mobile OS"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Operating Systems","tier4":"Windows OS"}
+{"tier1":"Finance","tier2":"Insurance","tier3":"Vehicle Insurance","tier4":"Auto Insurance"}
+{"tier1":"Finance","tier2":"Investing","tier3":"Funds","tier4":"Exchange Traded Funds"}
+{"tier1":"Finance","tier2":"Investing","tier3":"Stocks & Bonds","tier4":"Exchanges"}
+{"tier1":"Food & Drink","tier2":"Beverages","tier3":"Coffee & Tea","tier4":"Coffee"}
+{"tier1":"Food & Drink","tier2":"Beverages","tier3":"Coffee & Tea","tier4":"Tea"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"East Asian Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"Latin Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"Mediterranean Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"North American Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"Vegetarian Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Desserts","tier4":"Ice Cream & Frozen Desserts"}
+{"tier1":"Food & Drink","tier2":"Food","tier3":"Dairy & Eggs","tier4":"Cheese"}
+{"tier1":"Food & Drink","tier2":"Food","tier3":"Meat & Seafood","tier4":"Fish & Seafood"}
+{"tier1":"Food & Drink","tier2":"Food","tier3":"Meat & Seafood","tier4":"Poultry"}
+{"tier1":"Food & Drink","tier2":"Restaurants","tier3":"Fast Food","tier4":"Burgers"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Action & Platform Games","tier4":"Battle Royale Games"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Gaming Reference & Reviews","tier4":"Video Game Cheats & Hints"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Gaming Reference & Reviews","tier4":"Video Game Playthroughs"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Simulation Games","tier4":"Business & Tycoon Games"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Simulation Games","tier4":"City Building Games"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Simulation Games","tier4":"Life Simulation Games"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Simulation Games","tier4":"Vehicle Simulators"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Sports Games","tier4":"Sports Management Games"}
+{"tier1":"Games","tier2":"Computer & Video Games","tier3":"Strategy Games","tier4":"MOBA Games"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Allergies","tier4":"Environmental Allergies"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Infectious Diseases","tier4":"Cold & Flu"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Infectious Diseases","tier4":"Covid-19"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Infectious Diseases","tier4":"Parasites & Parasitic Diseases"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Infectious Diseases","tier4":"Vaccines & Immunizations"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Musculoskeletal Conditions","tier4":"Arthritis"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Neurological Conditions","tier4":"Learning & Developmental Disabilities"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Physical Disability","tier4":"Blindness & Vision Loss"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Physical Disability","tier4":"Hearing Impairment"}
+{"tier1":"Health","tier2":"Medical Facilities & Services","tier3":"Medical Procedures","tier4":"Medical Tests & Exams"}
+{"tier1":"Health","tier2":"Medical Facilities & Services","tier3":"Medical Procedures","tier4":"Surgery"}
+{"tier1":"Health","tier2":"Nutrition","tier3":"Special & Restricted Diets","tier4":"Gluten-Free Diets"}
+{"tier1":"Health","tier2":"Nutrition","tier3":"Special & Restricted Diets","tier4":"Low Carbohydrate Diets"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Birthdays & Name Days"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Carnival & Mardi Gras"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Christian Holidays"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Halloween & October 31st"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Islamic Holidays"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Jewish Holidays"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"New Year"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Thanksgiving"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Holidays & Seasonal Events","tier4":"Valentine's Day"}
+{"tier1":"Hobbies & Leisure","tier2":"Special Occasions","tier3":"Weddings","tier4":"Bachelor & Bachelorette Parties"}
+{"tier1":"Home & Garden","tier2":"Bed & Bath","tier3":"Bedroom","tier4":"Bedding & Bed Linens"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Cookware & Diningware","tier4":"Cookware"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Cookware & Diningware","tier4":"Diningware"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Major Kitchen Appliances","tier4":"Microwaves"}
+{"tier1":"Internet & Telecom","tier2":"Mobile & Wireless","tier3":"Mobile & Wireless Accessories","tier4":"Bluetooth Accessories"}
+{"tier1":"Internet & Telecom","tier2":"Mobile & Wireless","tier3":"Mobile Apps & Add-Ons","tier4":"Android Apps"}
+{"tier1":"Internet & Telecom","tier2":"Mobile & Wireless","tier3":"Mobile Apps & Add-Ons","tier4":"iOS Apps"}
+{"tier1":"Internet & Telecom","tier2":"Mobile & Wireless","tier3":"Mobile Phones","tier4":"Smart Phones"}
+{"tier1":"Jobs & Education","tier2":"Education","tier3":"Colleges & Universities","tier4":"Fraternities, Sororities & Student Societies"}
+{"tier1":"Jobs & Education","tier2":"Education","tier3":"Colleges & Universities","tier4":"Graduate Education"}
+{"tier1":"Jobs & Education","tier2":"Education","tier3":"Teaching & Classroom Resources","tier4":"School Supplies & Classroom Equipment"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Education Jobs"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"IT & Technical Jobs"}
+{"tier1":"Law & Government","tier2":"Public Safety","tier3":"Crime & Justice","tier4":"Corporate & Financial Crime"}
+{"tier1":"Law & Government","tier2":"Public Safety","tier3":"Crime & Justice","tier4":"Gangs & Organized Crime"}
+{"tier1":"Law & Government","tier2":"Public Safety","tier3":"Crime & Justice","tier4":"Prisons & Corrections"}
+{"tier1":"Law & Government","tier2":"Public Safety","tier3":"Emergency Services","tier4":"Emergency & Disaster Preparedness"}
+{"tier1":"News","tier2":"Business News","tier3":"Company News","tier4":"Company Earnings"}
+{"tier1":"News","tier2":"Business News","tier3":"Company News","tier4":"Mergers & Acquisitions"}
+{"tier1":"People & Society","tier2":"Ethnic & Identity Groups","tier3":"Asians & Diaspora","tier4":"East Asians & Diaspora"}
+{"tier1":"People & Society","tier2":"Ethnic & Identity Groups","tier3":"Asians & Diaspora","tier4":"South Asians & Diaspora"}
+{"tier1":"People & Society","tier2":"Ethnic & Identity Groups","tier3":"Asians & Diaspora","tier4":"Southeast Asians & Pacific Islanders"}
+{"tier1":"People & Society","tier2":"Ethnic & Identity Groups","tier3":"Indigenous Peoples","tier4":"Native Americans"}
+{"tier1":"People & Society","tier2":"Family & Relationships","tier3":"Family","tier4":"Ancestry & Genealogy"}
+{"tier1":"People & Society","tier2":"Family & Relationships","tier3":"Family","tier4":"Baby & Pet Names"}
+{"tier1":"People & Society","tier2":"Family & Relationships","tier3":"Family","tier4":"Parenting"}
+{"tier1":"People & Society","tier2":"Family & Relationships","tier3":"Troubled Relationships","tier4":"Divorce & Separation"}
+{"tier1":"People & Society","tier2":"Social Issues & Advocacy","tier3":"Work & Labor Issues","tier4":"Unions & Labor Movement"}
+{"tier1":"People & Society","tier2":"Social Sciences","tier3":"Political Science","tier4":"International Relations"}
+{"tier1":"Real Estate","tier2":"Real Estate Listings","tier3":"Residential Sales","tier4":"Mobile & Manufactured Homes"}
+{"tier1":"Reference","tier2":"General Reference","tier3":"Forms, Guides & Templates","tier4":"Legal Forms"}
+{"tier1":"Reference","tier2":"General Reference","tier3":"How-To, DIY & Expert Content","tier4":"Life Hacks & Quick Tips"}
+{"tier1":"Reference","tier2":"Humanities","tier3":"History","tier4":"Military History"}
+{"tier1":"Reference","tier2":"Language Resources","tier3":"Foreign Language Resources","tier4":"Translation Tools & Resources"}
+{"tier1":"Science","tier2":"Biological Sciences","tier3":"Flora & Fauna","tier4":"Insects & Entomology"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Casual Apparel","tier4":"Athleisure & Lounge Wear"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Casual Apparel","tier4":"Denim Wear"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Casual Apparel","tier4":"T-Shirts"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Clothing Accessories","tier4":"Backpacks & Utility Bags"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Clothing Accessories","tier4":"Gems & Jewelry"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Clothing Accessories","tier4":"Handbags & Purses"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Clothing Accessories","tier4":"Socks & Hosiery"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Clothing Accessories","tier4":"Watches"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Costumes","tier4":"Cosplay"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Eyewear","tier4":"Eyeglasses & Contacts"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Eyewear","tier4":"Sunglasses"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Footwear","tier4":"Athletic Shoes"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Footwear","tier4":"Boots"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Footwear","tier4":"Casual Shoes"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Formal Wear","tier4":"Bridal Wear"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Women's Clothing","tier4":"Dresses"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Women's Clothing","tier4":"Skirts"}
+{"tier1":"Shopping & Retailers","tier2":"Consumer Resources","tier3":"Customer Services","tier4":"Technical Support & Repair"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Martial Arts","tier4":"Capoeira"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Martial Arts","tier4":"Chinese Martial Arts"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Martial Arts","tier4":"Japanese Martial Arts"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Martial Arts","tier4":"Mixed Martial Arts"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Martial Arts","tier4":"Taekwondo"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Wrestling","tier4":"Amateur & Sport Wrestling"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Wrestling","tier4":"Professional Wrestling"}
+{"tier1":"Sports","tier2":"Individual Sports","tier3":"Racquet Sports","tier4":"Squash & Racketball"}
+{"tier1":"Sports","tier2":"Individual Sports","tier3":"Racquet Sports","tier4":"Tennis"}
+{"tier1":"Sports","tier2":"Individual Sports","tier3":"Running & Walking","tier4":"Distance Running"}
+{"tier1":"Sports","tier2":"Sporting Goods","tier3":"Combat Sports Equipment","tier4":"Boxing Gloves & Gear"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Madagascar"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Rwanda"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Middle Africa","tier4":"Congo (DR)"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Northern Africa","tier4":"Morocco"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Southern Africa","tier4":"South Africa"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Central Asia","tier4":"Kazakhstan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"China"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"Hong Kong"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"Japan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"South Korea"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"Taiwan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Russia & CIS","tier4":"Caucasus"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Russia & CIS","tier4":"Russian Federation"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"India"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Cambodia"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Philippines"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Thailand"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Viet Nam"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Iran"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Saudi Arabia"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Turkey"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Austria"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Czech Republic"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Eastern Europe"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Germany"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Hungary"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Poland"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Switzerland"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Italy"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Monaco"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Spain"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Nordic Countries","tier4":"Denmark"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Nordic Countries","tier4":"Norway"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Nordic Countries","tier4":"Sweden"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Bosnia and Herzegovina"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Bulgaria"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Croatia"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Greece"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Romania"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Serbia"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Western Europe","tier4":"Benelux"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Western Europe","tier4":"France"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Western Europe","tier4":"Ireland"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Western Europe","tier4":"United Kingdom"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Aruba, Bonaire & Curaçao"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Cuba"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Dominican Republic"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Haiti"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Jamaica"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Puerto Rico"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Virgin Islands"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Costa Rica"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"El Salvador"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Guatemala"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Honduras"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Mexico"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Panama"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Argentina"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Bolivia"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Brazil"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Chile"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Colombia"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Ecuador"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Peru"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Uruguay"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Venezuela"}
+{"tier1":"World Localities","tier2":"North America","tier3":"Canada","tier4":"British Columbia"}
+{"tier1":"World Localities","tier2":"North America","tier3":"Canada","tier4":"Ontario"}
+{"tier1":"World Localities","tier2":"North America","tier3":"Canada","tier4":"Quebec"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Alaska"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"California"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Florida"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Great Plains (USA)"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Hawaii"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Mid-Atlantic (USA)"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Midwest (USA)"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"New England"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Pacific Northwest"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Rocky Mountains"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"South (USA)"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Southwest (USA)"}
+{"tier1":"World Localities","tier2":"North America","tier3":"USA","tier4":"Texas"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Australia","tier4":"South Australia"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Pacific Islands","tier4":"Melanesia"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Pacific Islands","tier4":"Micronesia"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"Jazz & Blues","tier4":"Blues"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Cooking Tutorials & Recipe Videos"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Lip Sync Videos"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Brand)","tier3":"Nissan","tier4":"Infiniti"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Brand)","tier3":"Toyota","tier4":"Scion"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Auto Exterior"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"High Performance & Aftermarket Auto Parts"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Hygiene & Toiletries","tier4":"Antiperspirants, Deodorants & Body Sprays"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Hygiene & Toiletries","tier4":"Feminine Hygiene Products"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Hygiene & Toiletries","tier4":"Toothbrushes"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Hygiene & Toiletries","tier4":"Toothpaste"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Make-Up & Cosmetics","tier4":"Lip Makeup"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Management","tier4":"Business Process"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Management","tier4":"Strategic Planning"}
+{"tier1":"Business & Industrial","tier2":"Construction & Maintenance","tier3":"Building Materials & Supplies","tier4":"Nails, Screws & Fasteners"}
+{"tier1":"Business & Industrial","tier2":"Construction & Maintenance","tier3":"Building Materials & Supplies","tier4":"Plumbing Fixtures & Equipment"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Peripherals","tier4":"Input Devices"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Peripherals","tier4":"Printers, Copiers & Fax Machines"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"TV & Video Equipment","tier4":"Televisions"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Internet Software","tier4":"Proxying & Filtering"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Endocrine Conditions","tier4":"Thyroid Conditions"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Pain Management","tier4":"Headaches & Migraines"}
+{"tier1":"Health","tier2":"Nutrition","tier3":"Special & Restricted Diets","tier4":"Low Fat & Low Cholesterol Diets"}
+{"tier1":"Home & Garden","tier2":"Home Furnishings","tier3":"Living Room Furniture","tier4":"Sofas & Armchairs"}
+{"tier1":"Jobs & Education","tier2":"Education","tier3":"Early Childhood Education","tier4":"Preschool"}
+{"tier1":"People & Society","tier2":"Ethnic & Identity Groups","tier3":"Africans & Diaspora","tier4":"African-Americans"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Clothing Accessories","tier4":"Face Masks"}
+{"tier1":"Travel & Transportation","tier2":"Transportation","tier3":"Parking","tier4":"Airport Parking & Transportation"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Northern Africa","tier4":"Egypt"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Northern Africa","tier4":"Libya"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Southern Africa","tier4":"Botswana"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Burkina Faso"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Central Asia","tier4":"Turkmenistan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Afghanistan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Nepal"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Malaysia"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Iraq"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Israel"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"United Arab Emirates"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Portugal"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Paraguay"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Australia","tier4":"New South Wales"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Australia","tier4":"Tasmania"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Pacific Islands","tier4":"Polynesia"}
+{"tier1":"Arts & Entertainment","tier2":"Movies","tier3":"DVD & Video Shopping","tier4":"DVD & Video Rentals"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"African Music"}
+{"tier1":"Arts & Entertainment","tier2":"Music & Audio","tier3":"World Music","tier4":"Middle Eastern & North African Music"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Music Performances & Duets"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Brand)","tier3":"Honda","tier4":"Acura"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Auto Interior"}
+{"tier1":"Business & Industrial","tier2":"Business Services","tier3":"Corporate Events","tier4":"Trade Fairs & Industry Shows"}
+{"tier1":"Business & Industrial","tier2":"Energy & Utilities","tier3":"Renewable & Alternative Energy","tier4":"Hydropower"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Car Electronics","tier4":"Car Audio"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"Car Electronics","tier4":"Car Video"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"TV & Video Equipment","tier4":"Video Players & Recorders"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Multimedia Software","tier4":"Media Players"}
+{"tier1":"Finance","tier2":"Credit & Lending","tier3":"Loans","tier4":"Student Loans & College Financing"}
+{"tier1":"Finance","tier2":"Investing","tier3":"Funds","tier4":"Mutual Funds"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"French Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"Southeast Asian Cuisine"}
+{"tier1":"Food & Drink","tier2":"Food","tier3":"Meat & Seafood","tier4":"Beef"}
+{"tier1":"Food & Drink","tier2":"Food","tier3":"Meat & Seafood","tier4":"Pork"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Heart & Hypertension","tier4":"Cholesterol Issues"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Small Kitchen Appliances","tier4":"Blenders & Juicers"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Small Kitchen Appliances","tier4":"Food Mixers"}
+{"tier1":"People & Society","tier2":"Social Sciences","tier3":"Communications & Media Studies","tier4":"Public Speaking"}
+{"tier1":"Real Estate","tier2":"Real Estate Listings","tier3":"Residential Rentals","tier4":"Roommates & Shares"}
+{"tier1":"Shopping & Retailers","tier2":"Consumer Resources","tier3":"Product Reviews & Price Comparisons","tier4":"Price Comparisons"}
+{"tier1":"Sports","tier2":"Combat Sports","tier3":"Martial Arts","tier4":"Kickboxing"}
+{"tier1":"Sports","tier2":"Individual Sports","tier3":"Racquet Sports","tier4":"Pickleball"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Ethiopia"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Middle Africa","tier4":"Angola"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Ghana"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Niger"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Pakistan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Indonesia"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Jordan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Lebanon"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Baltics"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Slovakia"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Slovenia"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Vatican City"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Nordic Countries","tier4":"Finland"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Nordic Countries","tier4":"Iceland"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Albania"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Bahamas"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Nicaragua"}
+{"tier1":"World Localities","tier2":"North America","tier3":"Canada","tier4":"Atlantic Provinces"}
+{"tier1":"World Localities","tier2":"North America","tier3":"Canada","tier4":"Canadian Prairies"}
+{"tier1":"Beauty & Fitness","tier2":"Face & Body Care","tier3":"Make-Up & Cosmetics","tier4":"Make-Up Tutorials & Get Ready With Me Videos"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"Middle Eastern Cuisine"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"South Asian Cuisine"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Major Kitchen Appliances","tier4":"Refrigerators & Freezers"}
+{"tier1":"Internet & Telecom","tier2":"Mobile & Wireless","tier3":"Mobile Apps & Add-Ons","tier4":"Ringtones & Mobile Themes"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Health & Medical Jobs"}
+{"tier1":"Real Estate","tier2":"Real Estate Listings","tier3":"Residential Sales","tier4":"Condos & Townhomes"}
+{"tier1":"Shopping & Retailers","tier2":"Apparel","tier3":"Athletic Apparel","tier4":"Cycling Apparel"}
+{"tier1":"Shopping & Retailers","tier2":"Consumer Resources","tier3":"Customer Services","tier4":"Loyalty Cards & Programs"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Bangladesh"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Indian Ocean Islands"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Sri Lanka"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Bahrain"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Western Europe","tier4":"Andorra"}
+{"tier1":"Business & Industrial","tier2":"Advertising & Marketing","tier3":"Marketing","tier4":"Social Media Marketing"}
+{"tier1":"Business & Industrial","tier2":"Business Services","tier3":"Office Supplies","tier4":"Office Furniture"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"Hard Drives"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Peripherals","tier4":"Computer Monitors & Displays"}
+{"tier1":"Finance","tier2":"Credit & Lending","tier3":"Loans","tier4":"Home Financing"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Respiratory Conditions","tier4":"Asthma"}
+{"tier1":"Health","tier2":"Medical Devices & Equipment","tier3":"Assistive Technology","tier4":"Mobility Equipment & Accessories"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Northern Africa","tier4":"Sudan"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Senegal"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Singapore"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Qatar"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Montenegro"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Guyana"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Auto Brakes"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Repair & Maintenance","tier4":"Brake Service & Repair"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Human Resources","tier4":"Corporate Training"}
+{"tier1":"Business & Industrial","tier2":"Shipping & Logistics","tier3":"Freight Transport","tier4":"Trucking"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Major Kitchen Appliances","tier4":"Ranges, Cooktops & Ovens"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Small Kitchen Appliances","tier4":"Bread Makers"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Small Kitchen Appliances","tier4":"Coffee & Espresso Makers"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Government & Public Sector Jobs"}
+{"tier1":"Real Estate","tier2":"Real Estate Listings","tier3":"Residential Sales","tier4":"New Homes & Custom Homes"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Northern Africa","tier4":"Tunisia"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Nigeria"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Kuwait"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Palestine"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Yemen"}
+{"tier1":"Arts & Entertainment","tier2":"Movies","tier3":"Classic Films","tier4":"Silent Films"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Parts & Accessories","tier4":"Automotive Electronic Components"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Repair & Maintenance","tier4":"Oil Changes"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Human Resources","tier4":"Payroll Services"}
+{"tier1":"Business & Industrial","tier2":"Shipping & Logistics","tier3":"Mail & Package Delivery","tier4":"Couriers, Messengers & Home Delivery Services"}
+{"tier1":"Computers & Electronics","tier2":"Consumer Electronics","tier3":"TV & Video Equipment","tier4":"DVRs & Set-Top Boxes"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Accounting & Financial Software"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Spreadsheet Software"}
+{"tier1":"Finance","tier2":"Credit & Lending","tier3":"Loans","tier4":"Personal Loans"}
+{"tier1":"Finance","tier2":"Investing","tier3":"Funds","tier4":"Hedge Funds"}
+{"tier1":"Finance","tier2":"Investing","tier3":"Stocks & Bonds","tier4":"Bonds"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"Eastern European Cuisine"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Accounting & Finance Jobs"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Clerical & Administrative Jobs"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Tanzania"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Uganda"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"Macau"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"North Korea"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Central America","tier4":"Belize"}
+{"tier1":"Autos & Vehicles","tier2":"Motor Vehicles (By Brand)","tier3":"Toyota","tier4":"Lexus"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Repair & Maintenance","tier4":"Transmission Repair & Maintenance"}
+{"tier1":"Business & Industrial","tier2":"Advertising & Marketing","tier3":"Marketing","tier4":"Direct Mail Marketing"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Management","tier4":"Supply Chain Management"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"Data Backup & Recovery"}
+{"tier1":"Finance","tier2":"Credit & Lending","tier3":"Loans","tier4":"Vehicle Financing"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Legal Jobs"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Sales & Marketing Jobs"}
+{"tier1":"Shopping & Retailers","tier2":"Consumer Resources","tier3":"Customer Services","tier4":"Warranties & Service Contracts"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"East Asia","tier4":"Mongolia"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Cyprus"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Saint Lucia"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Repair & Maintenance","tier4":"Collision & Auto Body Repair"}
+{"tier1":"Business & Industrial","tier2":"Business Operations","tier3":"Management","tier4":"Project Management"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Components","tier4":"Computer Memory"}
+{"tier1":"Food & Drink","tier2":"Cooking & Recipes","tier3":"Cuisines","tier4":"German Cuisine"}
+{"tier1":"Health","tier2":"Health Conditions","tier3":"Allergies","tier4":"Food Allergies"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Executive & Management Jobs"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Kenya"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Northern Africa","tier4":"Algeria"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Central Asia","tier4":"Kyrgyzstan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Syria"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"Network Storage"}
+{"tier1":"Home & Garden","tier2":"Bed & Bath","tier3":"Bedroom","tier4":"Mattresses"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Retail Jobs"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Côte d'Ivoire"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Mozambique"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Nordic Countries","tier4":"Greenland"}
+{"tier1":"Arts & Entertainment","tier2":"TV & Video","tier3":"Online Video","tier4":"Unboxing Videos"}
+{"tier1":"Home & Garden","tier2":"Bed & Bath","tier3":"Bedroom","tier4":"Beds & Headboards"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Brunei"}
+{"tier1":"Business & Industrial","tier2":"Hospitality Industry","tier3":"Food Service","tier4":"Restaurant Supply"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Major Kitchen Appliances","tier4":"Dishwashers"}
+{"tier1":"Sports","tier2":"Sporting Goods","tier3":"Winter Sports Equipment","tier4":"Skiing Equipment"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"San Marino"}
+{"tier1":"Home & Garden","tier2":"Home Furnishings","tier3":"Living Room Furniture","tier4":"Coffee Tables & End Tables"}
+{"tier1":"Shopping & Retailers","tier2":"Gifts & Special Event Items","tier3":"Gifts","tier4":"Gift Baskets"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Cayman Islands"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Zimbabwe"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Myanmar"}
+{"tier1":"Business & Industrial","tier2":"Shipping & Logistics","tier3":"Freight Transport","tier4":"Air Freight"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Business & Productivity Software","tier4":"Project Management Software"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"Kosovo"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Major Kitchen Appliances","tier4":"Kitchen Hoods & Vents"}
+{"tier1":"Jobs & Education","tier2":"Education","tier3":"Teaching & Classroom Resources","tier4":"Lesson Plans"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"Laos"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Small Kitchen Appliances","tier4":"Food Processors"}
+{"tier1":"Sports","tier2":"Individual Sports","tier3":"Racquet Sports","tier4":"Badminton"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"French Guiana"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Australia","tier4":"Queensland"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"CD & DVD Storage Media"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Internet Software","tier4":"Download Managers"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Australia","tier4":"Victoria (AU)"}
+{"tier1":"Internet & Telecom","tier2":"Web Services","tier3":"Web Hosting & Domain Registration","tier4":"Domain Registration"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Somalia"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"South America","tier4":"Suriname"}
+{"tier1":"Internet & Telecom","tier2":"Web Services","tier3":"Web Hosting & Domain Registration","tier4":"Web Hosting"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Zambia"}
+{"tier1":"Business & Industrial","tier2":"Business Services","tier3":"Office Services","tier4":"Office & Facilities Management"}
+{"tier1":"Jobs & Education","tier2":"Jobs","tier3":"Job Listings","tier4":"Temporary & Seasonal Jobs"}
+{"tier1":"Autos & Vehicles","tier2":"Vehicle Parts & Services","tier3":"Vehicle Repair & Maintenance","tier4":"Auto Glass Repair & Replacement"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Central Asia","tier4":"Uzbekistan"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"West Asia","tier4":"Oman"}
+{"tier1":"Home & Garden","tier2":"Kitchen & Dining","tier3":"Small Kitchen Appliances","tier4":"Toasters & Toaster Ovens"}
+{"tier1":"Home & Garden","tier2":"Patio, Lawn & Garden","tier3":"Yard Maintenance","tier4":"Lawn Mowers"}
+{"tier1":"Arts & Entertainment","tier2":"Visual Art & Design","tier3":"Design","tier4":"Industrial & Product Design"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Barbados"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Trinidad & Tobago"}
+{"tier1":"Internet & Telecom","tier2":"Mobile & Wireless","tier3":"Mobile Phones","tier4":"Mobile Phone Repair & Services"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Middle Africa","tier4":"Cameroon"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Central & Eastern Europe","tier4":"Liechtenstein"}
+{"tier1":"Health","tier2":"Nutrition","tier3":"Special & Restricted Diets","tier4":"Kosher Foods"}
+{"tier1":"Real Estate","tier2":"Real Estate Listings","tier3":"Residential Rentals","tier4":"Furnished Rentals"}
+{"tier1":"Business & Industrial","tier2":"Advertising & Marketing","tier3":"Marketing","tier4":"Email Marketing"}
+{"tier1":"Business & Industrial","tier2":"Printing & Publishing","tier3":"Document & Printing Services","tier4":"Business Cards & Stationery"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"South Asia","tier4":"Bhutan"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Mediterranean Europe","tier4":"Malta"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Saint Kitts & Nevis"}
+{"tier1":"Sports","tier2":"Sporting Goods","tier3":"Combat Sports Equipment","tier4":"Martial Arts Equipment"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"New Zealand","tier4":"Auckland"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Eastern Africa","tier4":"Malawi"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Middle Africa","tier4":"Chad"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"Australia","tier4":"Western Australia"}
+{"tier1":"World Localities","tier2":"North America","tier3":"Canada","tier4":"Northern Territories"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Antigua & Barbuda"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Dominica"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"New Zealand","tier4":"Christchurch"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Southeast Asia","tier4":"East Timor"}
+{"tier1":"World Localities","tier2":"Africa","tier3":"Western Africa","tier4":"Mali"}
+{"tier1":"World Localities","tier2":"Asia","tier3":"Central Asia","tier4":"Tajikistan"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Grenada"}
+{"tier1":"World Localities","tier2":"Oceania","tier3":"New Zealand","tier4":"Wellington"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Guadeloupe"}
+{"tier1":"World Localities","tier2":"Latin America","tier3":"Caribbean","tier4":"Martinique"}
+{"tier1":"Computers & Electronics","tier2":"Computer Hardware","tier3":"Computer Drives & Storage","tier4":"Memory Card Readers"}
+{"tier1":"Computers & Electronics","tier2":"Software","tier3":"Internet Software","tier4":"Content Management"}
+{"tier1":"Sports","tier2":"Sporting Goods","tier3":"Winter Sports Equipment","tier4":"Snowboarding Gear"}
+{"tier1":"World Localities","tier2":"Europe","tier3":"Southeastern Europe","tier4":"North Macedonia"}

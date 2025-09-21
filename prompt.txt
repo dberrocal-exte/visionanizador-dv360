@@ -1,0 +1,260 @@
+project summary
+Ok I need to read several big csv files in the folder rawData. the origin of these files difer although the data they'll contain is roughly the same.
+there will be a need to extract transform and load data from these files, although I won't have a infrastructure so each step of the process will have to be writen to files in the project.
+
+well be using node 22 and pnpm for this.
+external packages will be yargs for easy use of paramenters, you can propose other packages, but priorize native node functions
+
+
+so starting with the file structure
+./rawData will have csv files that well need to process. It'll have the following files
+    1. categories.csv  with the following data 
+        - Insertion Order
+        - Date
+        - Category
+        - App/URL
+        - Impressions
+        - Clicks
+        - Viewable Impressions
+    2. genders.csv: with the following data 
+        - Insertion Order
+        - Date
+        - Gender
+        - Age
+        - Impressions
+        - Clicks
+    3. device.csv: 
+        - Insertion Order
+        - Date
+        - Device Type
+        - Impressions
+        - Clicks
+        - Viewable Impressions
+    4. unique.csv:
+        - Insertion Order
+        - Date
+        - Impressions
+        - Clicks
+        - Viewable Impressions
+        - Unique Impression
+        - video_starts
+        - video_views25
+        - video_views50
+        - video_views75
+        - video_views100
+
+
+./intermediate/ here will be all the intermediate files Ill ask for later
+
+./processed/ here will be the final files.
+
+./dictionary/ - here will be the dictionaries in case we need it.
+
+./config.js here will be all the parts configurable by the user
+
+./utils/ here will be all the utilities for later reuse
+
+./tasks/  here will be all the scripts to execute using pnpm
+
+we've finished with the structure.
+
+regarding the rawfiles, all the files will have the specified data, but since the origins may be different the order of the data and the headers may be different, in the config.js file should be index for the user to fill to specify what index have the data in each file
+
+the external packages used will be yargs for easy parameter use. please propose other packages we may use. but priorize use 
+
+All the tasks should check if the needed files exists
+
+In the following steps I'll be stating the diferent task, so dont do anything yet
+
+-----
+
+utils files:
+first 
+
+-----
+extractTasks: several extract tasks
+there should be a extract*  that runs all the task starting by extract:
+extractTask1
+    name: "extract:categories"
+    parameter
+        - Global:tiers : default 1, optional, possible values: 1,2,3, 4
+        - Global:provider : default dv, optional, possible values: dv,ttd,zed
+        - splitval: default /, optional, possible values: any single digit or char
+    description: this task should extract all the unique Category values from the file ./rawData/categories.csv splitted by the split values up to a max depth of the tier value, each attribute shoulbe tierN.. If the provider is dv, the first appearance of the splitvalue should be removed before spliting.
+    the output should be written to the file ./intermediate/categories.tierN.jsonl 
+
+    example: for this line
+    107766.10_US_BRAND_NHTSA_Labor_Day_Impaired_2025_Aug_Std_Video_Cross_Drug_HMales_18-34_V2,2025/08/13,/Arts & Entertainment/Music & Audio/Rock Music/Classic Rock & Oldies,lacuerda.net,1,0,1
+    with parameter tier=2 and no other parameters the output shoudl be
+    {tier1:"Arts & Entertainment",tier2:"Music & Audio"}
+
+
+inferTasks: several infering data tasks
+there should be a infer*  that runs all the task starting by infer:
+
+
+
+inferTask1
+    name: "infer:ageGender"
+    parameter        
+        - Global:provider : default dv, optional, possible values: dv,ttd,zed        
+    description: parse the values of the  ./rawData/gender.csv and get the value for each year in a row. Each age is a representation of a range of years and I want to split it for each year getting the corresponding impressions pero date and insertion order. the exception will be for the ranges -21 and +65 which will aggregate. for the rest of ranges, youll have to get the value per each year. 
+    The ranges usually are number-number so, if the range is 25-34 youl have to divide the impressions between 10 (the number of years included in the range) and create 10 lines one for each year with the result impression...
+
+    if the range is something like 21+ then you have to create a line per year up to 65 in which case it'll aggregate on the 65+ tier for that data. +65 counts as only one  year
+
+    the output should be written to the file ./intermediate/gender.deaggregated.jsonl 
+
+inferTask2
+    name: "infer:iabScoring"
+    parameter        
+        - Global:provider : default dv, optional, possible values: dv,ttd,zed        
+        - minscore : default 0.4, optional, possible values: a float between 0 and 1
+    description: this task should create a intermediate file from the values of /rawData/categories.csv using the ./dictionary/tier1_iab_mapping_top10_unique.jsonl
+        and write a csv file ./intermediate/categoryscored.csv  with these headers  Insertion Order,Date,iabId,iabcategory name,category score 
+        create a row per category in the dictionary
+        the category score should be calculated multiplying the Impressions agains the score of the dictionary but only if the minScore is equal or higher of the score in the dictionary
+    
+    
+
+
+
+
+the objective is to create a json file for each unique insertion order with the following properties
+
+data:
+    products:
+        [productId]:
+            byDevices: simple json object,
+            totals: simple json object,
+            entities it'll be an empty array,
+            keyProperties  it will be an array of objects,
+            demo: simple json object,
+            contentTaxonomy,
+                audience_distribution it will be an array of objects,
+                campaign_delivery it will be an array of objects,
+                campaign_interactions it'll be an empty array
+            perDay it will be an array of objects
+
+Since it wont be much data, you can store all the final data in an object for easier manipulation. use the product Id as index.
+
+now, processing the device.csv file we have to for each insertion order generate the following values
+    productId = which is the first item of the split of _ of the insertion order name
+    percentage of Device Type impressions agains the total of impressions, don't break it per date
+    aggregate Tablet and Smart Phone under Mobile
+    store it in 
+        data:
+            products:
+            [productId]:
+                byDevices
+    there should be an option in the config.js file for the user to add a minimum to show, this way if one of the devices is below this minimum its value should be added to the highes device.
+    
+
+now, using the file gender.deaggregated.jsonl 
+    calculate the following per insertionorder, do not break by date all of these values has to have 4 decimals top
+        "gender_male": percentage of gender male impressions against the total of impressions,
+        "gender_female": percentage of gender female impressions against the total of impressions,
+        "age_18_24": percentage of age 18-24 impressions against the total of impressions,
+        "age_25_34": percentage of age 25_34 impressions against the total of impressions,
+        "age_35_44": percentage of age 35_44 impressions against the total of impressions,
+        "age_45_54": percentage of age 45_54 impressions against the total of impressions,
+        "age_55_64": percentage of age 55_64 impressions against the total of impressions,
+        "age_65": percentage of age +65 impressions against the total of impressions,
+    do not keep the total impressions of this file.
+    store this data in 
+        data:
+            products:
+                [productId]:
+                    demo
+
+now processing the unique.csv file 
+    per each day and insertion order we have to create a json object with the following properties
+        {
+            "analytic_date": Date in format "2025-09-01"
+            "analytic_viewability": four decimals equals to viewable impressions  / Impressions * 100,        
+            "analytic_views": video_views100,
+            "analytic_views25": video_views25,
+            "analytic_views50": video_views50,
+            "analytic_views75": video_views75,
+            "analytic_vtr": four decimals equals to video_views100  / video_starts * 100,
+            "analytic_ctr": four decimals equals Clicks / Impressions *100,
+            "analytic_impressions": Impressions,
+            "analytic_clicks": Clicks
+        }
+        each object has to be pushed to 
+            data:
+                products:
+                    [productId]:
+                        perDay
+    keep the total totals for these values, we'll use them later
+        - Impressions
+        - Clicks
+        - Viewable Impressions
+        - video_starts
+        - video_views25
+        - video_views50
+        - video_views75
+        - video_views100
+    after processing the file, create a json object as follows
+        {
+            "analytic_viewability": four decimals equals to total viewable impressions  / total Impressions * 100,            
+            "analytic_views": total video_views100,
+            "analytic_views25": total video_views25,
+            "analytic_views50": total video_views50,
+            "analytic_views75": total video_views75,
+            "analytic_vtr": four decimals equals to total video_views100  / total video_starts * 100,
+            "analytic_ctr": four decimals equals total Clicks / total Impressions *100,
+            "analytic_impressions": total Impressions,
+            "analytic_clicks": total Clicks
+        }
+    set this object to 
+        data:
+            products:
+                [productId]:
+                    totals
+
+now, processing the categories.csv  
+    per each App/URL you have to create a json object for
+    {   
+        "placement_domain": App/URL,
+        "impressions": sum of Impression,
+        "clicks": sum of Clicks,        
+        "viewability": sum of Viewable Impressions
+    }
+    this object should be pushed to 
+    data:
+        products:
+            [productId]:
+                keyProperties
+lastly, using the file ./intermediate/categoryscored.jsonl
+    per each insertionOrder and date I need you to create a json object
+    {
+        id: iabId,
+        date: date in "YYYY-MM-DD" format
+        name: iabcategoryName,
+        value: sum of iabscore rounded
+        percent: percentage of the total score for the same date for this value
+    }
+    keep the totals for each iab category scoring because we'll be using it later
+    push each item to 
+    data:
+        products:
+            [productId]:
+                contentTaxonomy:
+                    campaign_delivery
+    after this, for the totals you have to create an object per each insertionOrder
+    {
+        id: iabId,
+        name: iabcategoryName,
+        value: total iabscore rounded,
+        percent: percentage of the total score for the insertionOrder for this value
+    }
+    push each item to 
+    data:
+        products:
+            [productId]:
+                contentTaxonomy:
+                    audience_distribution
+
+
+    

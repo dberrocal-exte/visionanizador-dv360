@@ -1,0 +1,21 @@
+{
+  "name": "etl-csv-pipeline",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "extract*": "node tasks/runExtractAll.js",
+    "extract:categories": "node tasks/extractCategories.js",
+
+
+
+
+    "infer*": "node tasks/runInferAll.js",
+    "infer:ageGender": "node tasks/inferAgeGender.js",
+    "infer:iabScoring": "node tasks/inferIabScoring.js",
+
+    "generate:vision": "node tasks/generateVisionJson.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}

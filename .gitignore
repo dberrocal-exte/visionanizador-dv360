@@ -1,0 +1,5 @@
+node_modules
+rawData/*
+!rawData/.gitkeep
+processed/*
+!processed/.gitkeep
