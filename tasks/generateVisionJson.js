@@ -397,7 +397,10 @@ async function ingestUnique() {
   }
   for (const [pid, t] of totals.entries()) {
     ensureProduct(pid).totals = {
+      analytic_engagements: 0,
+      analytic_engagementsPercent: 0,
       analytic_viewability: pct4(t.viewable, t.impressions),
+      analytic_uniqueUsers:0,
       analytic_views: t.v100,
       analytic_views25: t.v25,
       analytic_views50: t.v50,
